@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Luis, and I am a computational biology working at Colorado State University. 
-
+My name is Luis, and I am a computational biology working at the Univeristy of Colorado. 
+ 
 - 🔬Actively developing automated computational pipelines for image processing.
 - 🦠 Experienced in constructing computational models for disease understanding and aiding drug discovery efforts.
 - 🧬 Proficient in genomics and molecular biology data analysis.

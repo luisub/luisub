@@ -3,7 +3,7 @@
 My name is Luis, and I am a computational biology working at the Univeristy of Colorado. 
  
 - 🔬Actively developing automated computational pipelines for image processing.
-- 🦠 Experienced in constructing computational models for disease understanding and aiding drug discovery efforts.
+- 🦠 Experienced in constructing ML and computational models for disease understanding and aiding drug discovery efforts.
 - 🧬 Proficient in genomics and molecular biology data analysis.
 - 💻 Skilled in command-line tools, Linux-based clusters, and Bash scripting.
 - 🗂️ Capable of building applications for remote access to large datasets and facilitating remote computer login.
